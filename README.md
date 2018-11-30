@@ -1,20 +1,7 @@
 ## Project Topic: Using Neural Networks to recreate lost parts of images
 ### Team Name: Sleepy Heads
 
-### Input
-<img display="inline" float="left" width ="350" src="https://github.com/art-hack/LNMHacks-3.0-Submission/blob/master/input/boat.png"> 
-<img display="inline" float="left" width ="350" src="https://github.com/art-hack/LNMHacks-3.0-Submission/blob/master/input/gazebo.png"> 
-<img display="inline" float="left" width ="350" src="https://github.com/art-hack/LNMHacks-3.0-Submission/blob/master/input/input2.png"> 
-<img display="inline" float="left" width ="350" src="https://github.com/art-hack/LNMHacks-3.0-Submission/blob/master/input/tree.png">
-
-
-
-### Output
-<img display="inline" float="left" width ="350" src="https://github.com/art-hack/LNMHacks-3.0-Submission/blob/master/output/1boat.png"> 
-<img display="inline" float="left" width ="350" src="https://github.com/art-hack/LNMHacks-3.0-Submission/blob/master/output/1gazebo.png"> 
-<img display="inline" float="left" width ="350" src="https://github.com/art-hack/LNMHacks-3.0-Submission/blob/master/output/1input2.png"> 
-<img display="inline" float="left" width ="350" src="https://github.com/art-hack/LNMHacks-3.0-Submission/blob/master/output/1tree.png">
-
+<img display="inline" width ="100%" src="https://github.com/art-hack/LNMHacks-3.0-Submission/blob/master/display.png"> 
 
 ### Explaination:
 
